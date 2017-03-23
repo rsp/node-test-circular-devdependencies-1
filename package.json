@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rsp/node-test-circular-devdependencies-1/issues"
   },
-  "homepage": "https://github.com/rsp/node-test-circular-devdependencies-1#readme"
+  "homepage": "https://github.com/rsp/node-test-circular-devdependencies-1#readme",
+  "devDependencies": {
+    "node-test-circular-devdependencies-2": "github:rsp/node-test-circular-devdependencies-2"
+  }
 }
